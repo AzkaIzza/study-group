@@ -12,7 +12,7 @@ The members are:
 * [Luthfi](https://github.com/luthfioye)
 * Iffa
 * Angel
-* Azka
+* [Azka](https://github.com/AzkaIzza)
 * [Yulia](https://github.com/YuliaRatsa)
 
 All of them are mathematics student at Universitas Brawijaya
